@@ -17,7 +17,7 @@ Twitter: <a href="https://twitter.com/Kush_238" target="_blank">@kush_238</a>
 All Social Media Links: <a href="https://www.kushbrahmbhatt.com/socials" target="_blank">kushbrahmbhatt.com/socials</a>
 <br/>
 Websites:
-<a href="https://www.kushbrahmbhatt.com/" target="_blank">kushbrahmbhatt.com/</a>
+<a href="https://www.kushbrahmbhatt.com/" target="_blank">kushbrahmbhatt.com/</a> and
 <a href="https://www.kushcreates.com/" target="_blank">kushcreates.com/</a>
 
 ## Table of Contents:
@@ -50,8 +50,6 @@ Web Developer - Feb 2024 - Present
 - **Additional Work**: Along with Web Development, I made designs too. Designs include: Letterheads, Banners, Brochures, Logo Re-design, and all.
 - Through my work, I aim to streamline digital processes, improve operational efficiency, and strengthen Jay Manav Seva Parivar Trust's capacity to serve the community effectively.
 
-
-
 <h3>DesiHipHop</h3>
 
 (Hybrid)
@@ -71,18 +69,19 @@ Full Stack Developer - Nov 2022 – Aug 2023
 Graphic Designer / Web Developer - Mar 2021 – Nov 2022
 
 - **Key Responsibilities & Achievements:**
-	- Led comprehensive brand design and social media management initiatives for The Cool Joint, a dynamic fast-food establishment, and its seasonal retail subsidiary, Balaji Seasonable.
-	- Spearheaded complete visual identity development including logo design, menu layouts, and marketing collateral for both brands.
-	- Produced and edited engaging video content for social media, significantly enhancing Instagram engagement through strategic Reels content.
-	- Managed end-to-end social media presence, developing and implementing content strategies across platforms.
-	- Created seasonal marketing materials and brand assets for Balaji Seasonable's festival-specific product launches.
-	- Designed promotional materials for various cultural celebrations including Diwali, Uttarayan, Holi, and Rakshabandhan.
+
+  - Led comprehensive brand design and social media management initiatives for The Cool Joint, a dynamic fast-food establishment, and its seasonal retail subsidiary, Balaji Seasonable.
+  - Spearheaded complete visual identity development including logo design, menu layouts, and marketing collateral for both brands.
+  - Produced and edited engaging video content for social media, significantly enhancing Instagram engagement through strategic Reels content.
+  - Managed end-to-end social media presence, developing and implementing content strategies across platforms.
+  - Created seasonal marketing materials and brand assets for Balaji Seasonable's festival-specific product launches.
+  - Designed promotional materials for various cultural celebrations including Diwali, Uttarayan, Holi, and Rakshabandhan.
 
 - **Softwares:**
-	- Adobe Photoshop
-	- Adobe Lightroom
-	- Adobe Premiere Pro
-	- Wondershare Filmora
+  - Adobe Photoshop
+  - Adobe Lightroom
+  - Adobe Premiere Pro
+  - Wondershare Filmora
 
 <h3>Shyam Fibers</h3>
 
@@ -93,16 +92,17 @@ Graphic Designer - Mar 2022 - Aug 2022
 - As a Graphic Designer at **Shyam Fibers** aka **Royal Quilts**, I was responsible for creating visually compelling designs that supported the company's branding and business needs. My primary focus was designing brochures and other legal and marketing materials to promote the company’s products and services effectively. I collaborated with the marketing and legal teams to ensure designs met brand guidelines and compliance requirements.
 
 - **Key Responsibilities:**
-	- **Brochure Design:** Developed and designed brochures for product promotions and corporate communication, ensuring clarity, creativity, and adherence to brand standards.
-	- **Legal Documents:** Created visually appealing and legally compliant designs for documents and contracts, contributing to professional and polished company materials.
-	- **Brand Consistency:** Ensured all designs aligned with the company's visual identity and strengthened the brand's overall presence.
-	- **Collaborative Work:** Worked closely with marketing, legal, and production teams to gather requirements and feedback, making necessary revisions and ensuring high-quality output.
-	- **Printing Coordination:** Collaborated with printing vendors to ensure final designs were printed as intended, addressing any technical issues related to materials or color consistency.
 
-- **Softwares:** 
-	- CorelDraw
-	- Adobe Illustrator
-	- Adobe Photoshop
+  - **Brochure Design:** Developed and designed brochures for product promotions and corporate communication, ensuring clarity, creativity, and adherence to brand standards.
+  - **Legal Documents:** Created visually appealing and legally compliant designs for documents and contracts, contributing to professional and polished company materials.
+  - **Brand Consistency:** Ensured all designs aligned with the company's visual identity and strengthened the brand's overall presence.
+  - **Collaborative Work:** Worked closely with marketing, legal, and production teams to gather requirements and feedback, making necessary revisions and ensuring high-quality output.
+  - **Printing Coordination:** Collaborated with printing vendors to ensure final designs were printed as intended, addressing any technical issues related to materials or color consistency.
+
+- **Softwares:**
+  - CorelDraw
+  - Adobe Illustrator
+  - Adobe Photoshop
 
 <h3>Acme Enterprise</h3>
 
@@ -113,11 +113,10 @@ Graphic Designer / Seller - Nov 2021 - Feb 2022
 - As a Graphic Designer at Acme Enterprise, I was responsible for creating visually appealing designs for the company's sales and marketing materials, helping to enhance the brand's image and improve customer engagement. I collaborated closely with the sales and support teams to ensure designs met business objectives and client needs. My role also involved utilizing Microsoft Excel for tracking design projects and supporting sales efforts.
 
 - **Key Responsibilities:**
-	- Graphic Design: Created and designed a variety of materials, including sales presentations, promotional brochures, product catalogs, flyers, and digital content to support marketing campaigns and product launches.
-	- Excel Usage: Managed and tracked design projects using Microsoft Excel, ensuring timely delivery and proper documentation of each project’s status, deadlines, and revisions.
-	- Brand Consistency: Ensured all designs aligned with the company's visual identity and strengthened the brand's overall presence.
-	- Brand Consistency: Ensured that all design work adhered to Acme Enterprise's brand guidelines and visual identity to maintain consistency across all materials.
-
+  - Graphic Design: Created and designed a variety of materials, including sales presentations, promotional brochures, product catalogs, flyers, and digital content to support marketing campaigns and product launches.
+  - Excel Usage: Managed and tracked design projects using Microsoft Excel, ensuring timely delivery and proper documentation of each project’s status, deadlines, and revisions.
+  - Brand Consistency: Ensured all designs aligned with the company's visual identity and strengthened the brand's overall presence.
+  - Brand Consistency: Ensured that all design work adhered to Acme Enterprise's brand guidelines and visual identity to maintain consistency across all materials.
 
 ## Projects
 
@@ -171,7 +170,7 @@ An app to check out the time and date of any country over the world.
 
 **St. Mary’s English Medium High School** - Gujarat, India
 
-- SSC (GSHEB) – 10th (2017 –  2018)
+- SSC (GSHEB) – 10th (2017 – 2018)
 
 ## Personal Details
 
