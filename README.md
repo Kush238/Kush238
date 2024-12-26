@@ -6,7 +6,7 @@ Lives in: _Gujarat, India_
 
 Email: <a href="mailto:kushbrahmbhatt23@gmail.com" target="_blank">kushbrahmbhatt23@gmail.com</a>
 <br/>
-Portfolio: <a href="https://thekush.vercel.app/" target="_blank">thekush.vercel.app</a>
+Portfolio: <a href="https://www.kushbrahmbhatt.com/" target="_blank">kushbrahmbhatt.com</a>
 <br/>
 GitHub: <a href="https://github.com/Kush238" target="_blank">Kush238</a>
 <br/>
@@ -14,70 +14,110 @@ LinkedIn: <a href="https://www.linkedin.com/in/kush-brahmbhatt-31a062208/" targe
 <br/>
 Twitter: <a href="https://twitter.com/Kush_238" target="_blank">@kush_238</a>
 <br/>
-All Social Media Links: <a href="https://links-kush.vercel.app/" target="_blank">links-kush.vercel.app</a>
+All Social Media Links: <a href="https://www.kushbrahmbhatt.com/socials" target="_blank">kushbrahmbhatt.com/socials</a>
+<br/>
+Websites:
+<a href="https://www.kushbrahmbhatt.com/" target="_blank">kushbrahmbhatt.com/</a>
+<a href="https://www.kushcreates.com/" target="_blank">kushcreates.com/</a>
 
 ## Table of Contents:
 
-[Home](https://github.com/Kush238/kush-resume)
+[Home](https://github.com/Kush238/Kush238)
 <br/>
-[Work Experience](https://github.com/Kush238/kush-resume#work-experience)
+[Work Experience](https://github.com/Kush238/Kush238#work-experience)
 <br/>
-[Projects](https://github.com/Kush238/kush-resume#projects)
+[Projects](https://github.com/Kush238/Kush238#projects)
 <br/>
-[Technical Skills](https://github.com/Kush238/kush-resume#technical-skills)
+[Technical Skills](https://github.com/Kush238/Kush238#technical-skills)
 <br/>
-[Education](https://github.com/Kush238/kush-resume#education)
+[Education](https://github.com/Kush238/Kush238#education)
 <br/>
-[Personal Details](https://github.com/Kush238/kush-resume#personal-details)
+[Personal Details](https://github.com/Kush238/Kush238#personal-details)
 
 ## Work Experience
 
+### Jay Manav Seva Parivar (JMSP) Trust
+
+(Full-time)
+
+Web Developer - Feb 2024 - Present
+
+- As the Website Developer for **Jay Manav Seva Parivar (JMSP) Trust** and its subsidiary, **Dikranu Ghar (Old Age Home)**, I manage and enhance our digital presence to support our mission of serving the community. My role encompasses a range of responsibilities aimed at providing a seamless and informative experience for donors, beneficiaries, and other supporters.
+- **Website Development & Maintenance**: Developed and maintained the Jay Manav Seva Parivar Trust website using HTML, CSS, JavaScript, and PHP to ensure a robust and user-friendly platform that showcases our projects, donation campaigns, and events.
+- **Admin Panel Functionality**: Implemented and managed a full-featured admin panel supporting CRUD operations for blogs, donation receipts, book receipts, campaigns, events, and individual donor records.
+- **Scalable Infrastructure**: Optimized the website and back-end systems to scale with increasing data entries and donor interactions, ensuring the platform remains responsive and secure.
+- **Digital Resource Management**: Coordinated with the legal authorities to generate essential income tax forms (10BE) for donors, accessible through a secure web interface.
+- **Additional Work**: Along with Web Development, I made designs too. Designs include: Letterheads, Banners, Brochures, Logo Re-design, and all.
+- Through my work, I aim to streamline digital processes, improve operational efficiency, and strengthen Jay Manav Seva Parivar Trust's capacity to serve the community effectively.
+
+
+
 <h3>DesiHipHop</h3>
 
-(Remote Job)
+(Hybrid)
 
 Full Stack Developer - Nov 2022 – Aug 2023
 
+- Desi HipHop (DHH) was my personal project/website to showcast the songs, lyrics, and blogs of Indian HipHop and Pakistani HipHop.
+- Desi HipHop (DHH) website had CRUD operations for addings songs, lyrics, and blogs of Indian HipHop and Pakistani HipHop.
 - Designed and developed the frontend and backend of blogging websites.
 - Optimized and added rich text editing features for authors.
 - Technologies used: HTML, CSS, JavaScript, PHP, MySQL, CKEditor
 
-<h3>Balaji Seasonable</h3>
-
-(Remote Job)
-
-Graphic Designer - Mar 2021 – Nov 2022
-
-- Designed the brand identity for Balaji Seasonable, including logos and menu items.
-- Used Adobe Illustrator, Photoshop, and Lightroom for branding.
-
 <h3>The Cool Joint</h3>
 
-(Remote Job)
+(Full-time)
 
-Graphic Designer - Mar 2021 – Nov 2022
+Graphic Designer / Web Developer - Mar 2021 – Nov 2022
 
-- Created branding materials for The Cool Joint, including logos, menus, posters, and brochures.
-- Recorded and edited videos and photos for social media.
-- Tools used: Adobe Illustrator, Photoshop, Lightroom, Wondershare Filmora
+- **Key Responsibilities & Achievements:**
+	- Led comprehensive brand design and social media management initiatives for The Cool Joint, a dynamic fast-food establishment, and its seasonal retail subsidiary, Balaji Seasonable.
+	- Spearheaded complete visual identity development including logo design, menu layouts, and marketing collateral for both brands.
+	- Produced and edited engaging video content for social media, significantly enhancing Instagram engagement through strategic Reels content.
+	- Managed end-to-end social media presence, developing and implementing content strategies across platforms.
+	- Created seasonal marketing materials and brand assets for Balaji Seasonable's festival-specific product launches.
+	- Designed promotional materials for various cultural celebrations including Diwali, Uttarayan, Holi, and Rakshabandhan.
+
+- **Softwares:**
+	- Adobe Photoshop
+	- Adobe Lightroom
+	- Adobe Premiere Pro
+	- Wondershare Filmora
 
 <h3>Shyam Fibers</h3>
 
-(Office Job)
+(Full-time)
 
-Graphic Designer - Feb 2021 – Nov 2022
+Graphic Designer - Mar 2022 - Aug 2022
 
-- Designed logos and brochures for Shyam Fibers.
-- Tools used: CorelDraw, Adobe Illustrator, Adobe Photoshop
+- As a Graphic Designer at **Shyam Fibers** aka **Royal Quilts**, I was responsible for creating visually compelling designs that supported the company's branding and business needs. My primary focus was designing brochures and other legal and marketing materials to promote the company’s products and services effectively. I collaborated with the marketing and legal teams to ensure designs met brand guidelines and compliance requirements.
+
+- **Key Responsibilities:**
+	- **Brochure Design:** Developed and designed brochures for product promotions and corporate communication, ensuring clarity, creativity, and adherence to brand standards.
+	- **Legal Documents:** Created visually appealing and legally compliant designs for documents and contracts, contributing to professional and polished company materials.
+	- **Brand Consistency:** Ensured all designs aligned with the company's visual identity and strengthened the brand's overall presence.
+	- **Collaborative Work:** Worked closely with marketing, legal, and production teams to gather requirements and feedback, making necessary revisions and ensuring high-quality output.
+	- **Printing Coordination:** Collaborated with printing vendors to ensure final designs were printed as intended, addressing any technical issues related to materials or color consistency.
+
+- **Softwares:** 
+	- CorelDraw
+	- Adobe Illustrator
+	- Adobe Photoshop
 
 <h3>Acme Enterprise</h3>
 
-(Office Job)
+(Full-time)
 
-Seller & Graphic Designer - Aug 2020 – Feb 2021
+Graphic Designer / Seller - Nov 2021 - Feb 2022
 
-- Designed logos, posters, and brochures for Acme Enterprise.
-- I was a seller at Acme Computers. And I used to sell Laptops, Printers, Cameras and Computers.
+- As a Graphic Designer at Acme Enterprise, I was responsible for creating visually appealing designs for the company's sales and marketing materials, helping to enhance the brand's image and improve customer engagement. I collaborated closely with the sales and support teams to ensure designs met business objectives and client needs. My role also involved utilizing Microsoft Excel for tracking design projects and supporting sales efforts.
+
+- **Key Responsibilities:**
+	- Graphic Design: Created and designed a variety of materials, including sales presentations, promotional brochures, product catalogs, flyers, and digital content to support marketing campaigns and product launches.
+	- Excel Usage: Managed and tracked design projects using Microsoft Excel, ensuring timely delivery and proper documentation of each project’s status, deadlines, and revisions.
+	- Brand Consistency: Ensured all designs aligned with the company's visual identity and strengthened the brand's overall presence.
+	- Brand Consistency: Ensured that all design work adhered to Acme Enterprise's brand guidelines and visual identity to maintain consistency across all materials.
+
 
 ## Projects
 
@@ -111,26 +151,27 @@ An app to check out the time and date of any country over the world.
 ## Technical Skills
 
 - **Strongest Areas:** Web Frontend Development
-- **Programming Languages:** HTML, CSS, JavaScript, PHP
-- **Libraries/Frameworks:** Tailwind CSS, ReactJS, NextJS, ExpressJS, TypeScript, Git, NodeJS
-- **Database:** MongoDB, Firebase, MySQL, PostgreSQL
+- **Frontend Languages:** HTML, CSS, SCSS, TailwindCSS, JavaScript, React.JS
+- **Backend Languages:** PHP, JavaScript, TypeScript
+- **Frameworks:** React.JS, NextJS, Laravel
+- **Database:** MySQL, PostgreSQL, SQLite, MariaDB, MongoDB
 - **Platforms:** Vercel, Netlify, GitHub Pages, Heroku
 
 ## Education
 
 **Charotor University of Science & Technology (Charusat)** - Gujarat, India
 
-- MSc(IT) - Master of Science in Information Technology (June 2023)
+- MSc(IT) - Master of Science in Information Technology (2024)
 
-- BCA – Bachelor Of Computer Application (June 2020 – Apr. 2023)
+- BCA – Bachelor Of Computer Application (2020 – 2023)
 
 **English Teaching School** - Gujarat, India
 
-- HSC (GSHEB) – 12th (June 2019 – Apr. 2020)
+- HSC (GSHEB) – 12th (2019 – 2020)
 
 **St. Mary’s English Medium High School** - Gujarat, India
 
-- SSC (GSHEB) – 10th (June 2017 – Apr. 2018)
+- SSC (GSHEB) – 10th (2017 –  2018)
 
 ## Personal Details
 
